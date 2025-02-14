@@ -19,7 +19,16 @@ If you flash or write a previously dumped BIOS, as documented in the MAME [cps3.
 - Region patch
 - CD/NOCD patch
 
-**Note:** This has only been tested on *Street Fighter III: 2nd Impact* and the *Ultra BIOS*. Use it at your own risk when working with live cartridges.
+**Note:** Use it at your own risk when working with live cartridges. Tested on:
+ 
+* Red Earth **with original keys and battery**
+* Street Fighter III: New Generation **with original keys and battery**
+* Street Fighter III: 2nd Impact
+* Street Fighter III 3rd Strike: Fight for the Futurem **with original keys and battery**
+* JoJo's Venture **with original keys and battery**
+* JoJo's Bizarre Adventure **with original keys and battery**
+* Ultra BIOS
+
 
 
 ### SIMM's
